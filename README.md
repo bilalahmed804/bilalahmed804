@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **MERN Stock**
-
 - 📫 How to reach me **ba3801534@gmail.com**
 
 - ⚡ Fun fact **I am funny**
