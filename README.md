@@ -13,11 +13,11 @@
 
 - 💬 Open to discussions on web development, technology trends, and anything in between. Let's exchange ideas and learn from each other!
 
-- 🌱 I’m currently learning - **JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me - **ba3801534@gmail.com**
+- 📫 How to reach me **ba3801534@gmail.com**
 
-- ⚡ Fun fact - **I am funny**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
