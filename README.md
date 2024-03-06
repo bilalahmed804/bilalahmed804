@@ -1,7 +1,7 @@
 <h1 align="center">Assalamu Alaikum👋, I'm Bilal Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img height="200px" src="https://img.freepik.com/free-vector/ui-ux-designers-isometric-composition-with-small-people-creating-custom-design-web-site-3d-vector-illustration_1284-68939.jpg?size=626&ext=jpg&uid=R140626683&ga=GA1.1.592598397.1709753105&semt=ais" alt="bilalahmed408" /> </p>
+<p align="left"> <img height="200px" weight="200px" src="https://img.freepik.com/free-vector/ui-ux-designers-isometric-composition-with-small-people-creating-custom-design-web-site-3d-vector-illustration_1284-68939.jpg?size=626&ext=jpg&uid=R140626683&ga=GA1.1.592598397.1709753105&semt=ais" alt="bilalahmed408" /> </p>
 
 - 👋 Front-end Developer | HTML, CSS, Bootstrap | Firebase & GitHub Hosting | JavaScript (in progress)
 
