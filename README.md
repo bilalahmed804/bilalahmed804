@@ -1,7 +1,7 @@
 <h1 align="center">Assalamu Alaikum👋, I'm Bilal Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img height="200px" weight="200px" src="[[[https://img.freepik.com/free-vector/ui-ux-designers-isometric-composition-with-small-people-creating-custom-design-web-site-3d-vector-illustration_1284-68939.jpg?size=626&ext=jpg&uid=R140626683&ga=GA1.1.592598397.1709753105&semt=ais](https://lottiefiles.com/animations/coding-Dw5DXgdj9t?from=search)](https://img.freepik.com/premium-photo/3d-man-web-developer-programming-coding-business-technology-dashboard-data-analytics-earnings_593668-283.jpg?size=626&ext=jpg&ga=GA1.1.592598397.1709753105&semt=ais)](https://img.freepik.com/free-vector/developers-computer-smartphone-working-single-page-app-tiny-people-single-page-application-spa-web-page-web-development-trend-concept-bright-vibrant-violet-isolated-illustration_335657-984.jpg?size=626&ext=jpg&ga=GA1.1.592598397.1709753105&semt=ais)" alt="bilalahmed408" /> </p>
+<p align="left"> <img height="200px" weight="200px" src="https://img.freepik.com/free-vector/developers-computer-smartphone-working-single-page-app-tiny-people-single-page-application-spa-web-page-web-development-trend-concept-bright-vibrant-violet-isolated-illustration_335657-984.jpg?size=626&ext=jpg&ga=GA1.1.592598397.1709753105&semt=ais" alt="bilalahmed408" /> </p>
 
 - 👋 Front-end Developer | HTML, CSS, Bootstrap | Firebase & GitHub Hosting | JavaScript (in progress)
 
