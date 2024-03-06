@@ -1,4 +1,4 @@
-<h1 align="center">Assalamu Alaikum👋, I'm <b><i>**Bilal Ahmed**</i></b></h1>
+<h1 align="center">Assalamu Alaikum👋, I'm <b><i>Bilal Ahmed</i></b></h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img height="150px" weight="150px" src="https://img.freepik.com/free-vector/developers-computer-smartphone-working-single-page-app-tiny-people-single-page-application-spa-web-page-web-development-trend-concept-bright-vibrant-violet-isolated-illustration_335657-984.jpg?size=626&ext=jpg&ga=GA1.1.592598397.1709753105&semt=ais" alt="bilalahmed408" /> </p>
