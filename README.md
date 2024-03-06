@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BJig0ZL%2FjRlGsDMmbeVFmag%3D%3D
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
