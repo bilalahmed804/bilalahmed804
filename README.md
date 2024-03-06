@@ -5,13 +5,13 @@
 
 - 👋 Front-end Developer | HTML, CSS, Bootstrap | Firebase & GitHub Hosting | JavaScript (in progress)
 
-🛠️ Currently mastering JavaScript to level up my front-end development skills!
+- 🛠️ Currently mastering JavaScript to level up my front-end development skills!
 
-🚀 Passionate about building responsive and user-friendly web applications using modern technologies.
+- 🚀 Passionate about building responsive and user-friendly web applications using modern technologies.
 
-🌐 Experience with Firebase and GitHub Hosting for seamless deployment of projects.
+- 🌐 Experience with Firebase and GitHub Hosting for seamless deployment of projects.
 
-💬 Open to discussions on web development, technology trends, and anything in between. Let's exchange ideas and learn from each other!
+- 💬 Open to discussions on web development, technology trends, and anything in between. Let's exchange ideas and learn from each other!
 
 - 🌱 I’m currently learning **JavaScript**
 
