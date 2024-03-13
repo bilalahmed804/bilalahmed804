@@ -3,9 +3,6 @@
 
 <p align="left"> <img height="150px" weight="150px" src="https://img.freepik.com/free-vector/developers-computer-smartphone-working-single-page-app-tiny-people-single-page-application-spa-web-page-web-development-trend-concept-bright-vibrant-violet-isolated-illustration_335657-984.jpg?size=626&ext=jpg&ga=GA1.1.592598397.1709753105&semt=ais" alt="bilalahmed408" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalahmed408" alt="bilalahmed408" /></a> </p>
-
-
 - 👋 Front-end Developer | HTML, CSS, Bootstrap | Firebase & GitHub Hosting | JavaScript (in progress)
 
 - 🛠️ Currently mastering JavaScript to level up my front-end development skills!
