@@ -1,4 +1,4 @@
-<h1 align="center">Assalamu Alaikum👋, I'm <b><i></i>Bilal Ahmed</i></b></h1>
+<h1 align="center">Assalamu Alaikum👋, I'm <b><i></i>Bilal Ahmed<i><b></h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalahmed804&label=Profile%20views&color=0e75b6&style=flat" alt="bilalahmed804" /> </p>
