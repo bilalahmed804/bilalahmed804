@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalahmed804" alt="bilalahmed804" /></a> </p>
 
-- 👋 Front-end Developer | HTML, CSS, Bootstrap | Firebase & GitHub Hosting | JavaScript (in progress)
+- 👋 Front-end Developer | HTML, CSS, Bootstrap | Firebase & GitHub Hosting | JavaScript.
 
 - 🛠️ Currently mastering JavaScript to level up my front-end development skills!
 
