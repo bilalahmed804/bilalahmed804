@@ -15,7 +15,7 @@
 
 - 💬 Open to discussions on web development, technology trends, and anything in between. Let's exchange ideas and learn from each other!
 
-- 📫 How to reach me **ba3801534@gmail.com**
+- 📫 How to reach me **----**
 
 - ⚡ Fun fact **I am funny**
 
